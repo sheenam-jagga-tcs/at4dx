@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>It displays the contacts related to the with missing addresses.</description>
+    <label>Missing Address Contacts</label>
+    <lwcComponent>missingAddressContactlist</lwcComponent>
+    <motif>Custom62: Chalkboard</motif>
+</CustomTab>

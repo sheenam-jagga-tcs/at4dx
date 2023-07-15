@@ -8,3 +8,8 @@
 .settings-meta.xml
 package.xml
 README.md
+# LWC Jest
+**/__tests__/**
+# LWC configuration files
+**/jsconfig.json
+**/.eslintrc.json

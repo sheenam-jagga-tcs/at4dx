@@ -11,11 +11,11 @@
         <value xsi:type="xsd:string">Account</value>
     </values>
     <values>
-        <field>To__c</field>
-        <value xsi:type="xsd:string">AccountsSelector</value>
-    </values>
-    <values>
         <field>Priority__c</field>
         <value xsi:type="xsd:double">10.0</value>
+    </values>
+    <values>
+        <field>To__c</field>
+        <value xsi:type="xsd:string">AccountsSelector</value>
     </values>
 </CustomMetadata>
