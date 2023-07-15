@@ -1,9 +1,15 @@
 {
   "packageDirectories": [
     {
-      "path": "sfdx-source/core",
+      "path": "sfdx-source/core"
+      
+    },
+
+     {
+      "path": "contactAddress",
       "default": true
     }
+
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
