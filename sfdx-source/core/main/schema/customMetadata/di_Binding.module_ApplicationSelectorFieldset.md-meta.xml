@@ -3,6 +3,14 @@
     <label>Application Selector Fieldset DI Module</label>
     <protected>false</protected>
     <values>
+        <field>BindingName__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>BindingObjectAlternate__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
         <field>BindingObject__c</field>
         <value xsi:nil="true"/>
     </values>
